@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "249358704316",
+    "firebase_url": "https://tnp-cell-assistant.firebaseio.com",
+    "project_id": "tnp-cell-assistant",
+    "storage_bucket": "tnp-cell-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249358704316:android:c51208a38e559a20",
+        "android_client_info": {
+          "package_name": "com.example.manas.tnp.tpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249358704316-4jfc5suio0l61jsbfbnomnjtub7lc94o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manas.tnp.tpo",
+            "certificate_hash": "fef7ffd5568e6bfb63dd8648b00e5f21c7ea16f8"
+          }
+        },
+        {
+          "client_id": "249358704316-bug0p8bigf9hq3a0ti76a034sr1jbb2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvuS1coeIN127OsapK7ouM6tCuDnU-rk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249358704316-bug0p8bigf9hq3a0ti76a034sr1jbb2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
